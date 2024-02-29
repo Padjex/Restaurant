@@ -1,0 +1,47 @@
+3/28/2022 9:31:53 AM
+
+		Zip Zvezdara
+
+
+ 1	Dimljena vešalica                           1200
+		1 * 1200.00
+ 2	Svinjnska Kolenica                          1850
+		1 * 1850.00
+ 3	Ćevapi 10kom                                1200
+		1 * 1200.00
+ 4	Pileći file                                 790
+		1 * 790.00
+
+
+			Ukupno: 5040
+
+3/28/2022 9:31:57 AM
+
+		Zip Zvezdara
+
+
+ 1	Ćevapi 5kom                                 650
+		1 * 650.00
+ 2	Mešano meso                                 2800
+		2 * 1400.00
+ 3	Pileći ražnjić                              890
+		1 * 890.00
+
+
+			Ukupno: 4340
+
+3/28/2022 9:31:58 AM
+
+		Zip Zvezdara
+
+
+ 1	Ćevapi 10kom                                1200
+		1 * 1200.00
+ 2	Dimljena vešalica                           1200
+		1 * 1200.00
+ 3	Pileći file                                 1580
+		2 * 790.00
+
+
+			Ukupno: 3980
+

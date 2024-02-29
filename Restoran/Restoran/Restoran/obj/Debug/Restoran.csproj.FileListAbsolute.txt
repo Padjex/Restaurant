@@ -1,0 +1,63 @@
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.pdb
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.AssemblyReference.cache
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.exe
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.pdb
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Recepcija.resources
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmUnosRecepcionar.resources
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Konobari.resources
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmMenu.resources
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Racun.resources
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.LOGIN.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.AssemblyReference.cache
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.LOGIN.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmMenu.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmUnosRecepcionar.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Konobari.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Racun.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Recepcija.resources
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.exe
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.pdb
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe
+C:\Users\jovan\OneDrive\Radna površina\Pedja\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.pdb
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe.config
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.pdb
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.AssemblyReference.cache
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.SuggestedBindingRedirects.cache
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.LOGIN.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmMenu.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmUnosRecepcionar.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Konobari.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Racun.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Recepcija.resources
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.exe
+E:\win\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.pdb
+C:\Users\PredragJokovic\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.exe
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\bin\Debug\Restoran.pdb
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.AssemblyReference.cache
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.LOGIN.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmMenu.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.frmUnosRecepcionar.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Konobari.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Racun.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.Recepcija.resources
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.exe
+C:\Users\PredragJokovic\OneDrive - its.edu.rs\Documents\ITS\Programerski alati C#\Projekti\Restoran\Restoran\Restoran\Restoran\obj\Debug\Restoran.pdb
